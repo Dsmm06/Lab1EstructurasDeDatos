@@ -1,6 +1,5 @@
 import java.time.Instant;
 import java.time.Duration;
-
 public class Main {
 
     public static void exec(int size, String method, Operation operation) {
