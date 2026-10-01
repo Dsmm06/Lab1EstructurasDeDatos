@@ -14,7 +14,7 @@ public class Lista<T> {
             tail = newNode;
             head = newNode;
         }
-        newNode.
+        newNode.next=tail;
 
     }
 }
